@@ -26,6 +26,7 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 🚧 **my todo-list:**
 <!-- TODO-LST:START -->
 - [ ] 💻- Finish Potato Hub
+- [ ]   <code><img height="20" src="https://raw.githubusercontent.com/potatoman42o/potatoman42o/main/download.jpg"></code>
 
 <!-- TODO-IST:END -->
 
