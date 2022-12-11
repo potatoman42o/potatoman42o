@@ -25,8 +25,8 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 
 🚧 **my todo-list:**
 <!-- TODO-LST:START -->
-💻- Finish Potato Hub
-- [ ] incomplete task
+- [ ] 💻- Finish Potato Hub
+
 <!-- TODO-IST:END -->
 
 
