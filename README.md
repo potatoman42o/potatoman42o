@@ -23,13 +23,13 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 ```
 
 
-🚧 **my todoist stats:**
+🚧 **my todo-list:**
 <!-- TODO-LST:START -->
 💻- Finish Potato Hub
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+<p align="center"> 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=potatoman42o&show_icons=true&theme=gotham" alt="potatoman42o" />
 
