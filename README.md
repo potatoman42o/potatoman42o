@@ -11,15 +11,14 @@ hi, i'm potatoman, a self-taught lua, javascript and python developer . i take g
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 33 mins  █████████████████▓░░░░░░░   71.29 %
-python       2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-lua          1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+JavaScript   10 hrs 33 mins  █████████████████▓░░░░░░░   71.29 %
+lua          5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Python       1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
