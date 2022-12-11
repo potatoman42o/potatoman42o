@@ -31,7 +31,7 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=potatoman42o&show_icons=true&theme=gotham" alt="potatoman42o
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=potatoman42o&show_icons=true&theme=gotham" alt="potatoman42o" />
 
 
 
