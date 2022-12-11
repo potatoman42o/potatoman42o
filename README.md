@@ -24,11 +24,11 @@ Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░
 
 
 🚧 **my todo-list:**
-<!-- TODO-LST:START -->
+<!-- TODO-LIST:START -->
 - [ ] 💻- Finish Potato Hub
-- [ ] <img height="20" src="https://raw.githubusercontent.com/potatoman42o/potatoman42o/main/download.jpg"> - learn C
+- [ ] 📜- make a Whitelist 
 
-<!-- TODO-IST:END -->
+<!-- TODO-LIST:END -->
 
 
 <p align="center"> 📈 my github stats
