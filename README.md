@@ -1,39 +1,18 @@
-<br />
-
-hi, i'm potatoman, a self-taught lua, javascript and python developer . i take great care in the experience, architecture, and code quality of the things I build.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="100" />
-  
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   10 hrs 33 mins  █████████████████▓░░░░░░░   71.29 %
-lua          5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Python       1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-```
+# 💫 About Me:
+Hi 👋, I'm potatoman.<br>Im Mainly A Roblox Script Dev,<br>🔭 I’m currently working on [Potato Hub](https://github.com/potatoman42o/potato-hub)<br>🏁 Potato Bot Is Now Public
 
 
-🚧 **my todo-list:**
-<!-- TODO-LIST:START -->
-- [ ] 💻- Finish Potato Hub
-- [ ] 📜- make a Whitelist 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QxEPFKGx3h) 
 
-<!-- TODO-LIST:END -->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=potatoman42o&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=potatoman42o&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoman42o&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=potatoman42o&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center"> 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=potatoman42o&show_icons=true&theme=gotham" alt="potatoman42o" />
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
